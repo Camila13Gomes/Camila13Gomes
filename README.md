@@ -1,15 +1,28 @@
-### Olá sou a Camila ![image](https://github.com/Camila13Gomes/Camila13Gomes/assets/110426390/accba06b-a357-4831-8a90-907d75b0ce98)
- ### Venha me conhecer !!!  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-gomes-8b647320b/)
+# Olá, sou a Camila! 👋
 
-<div>
-<a href="https://github.com/Camila13Gomes">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=camila13gomes&show_icons=true&theme=synthwave"/>
+Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre minhas habilidades, projetos e tecnologias favoritas. Sinta-se à vontade para explorar!
+
+💻 Estudo Engenharia da Computação e Desenvolvimento de Software pela Univercidade de Aveiro
+
  
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CAMILA13GOMES&layout=compact&langs_count=8&card_width=320" />
 
-</a>
+## Venha me conhecer! 👇
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-gomes-8b647320b/)
+
+---
+
+## Um pouco sobre mim... 🌟
+
+Sou apaixonada por programação e tecnologia. Sempre em busca de aprendizado e novos desafios. Aqui estão algumas estatísticas sobre meu trabalho:
+
+<div align="center">
+  <img height=190 src="https://github-readme-stats.vercel.app/api?username=camila13gomes&show_icons=true&theme=synthwave"/>
+  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=CAMILA13GOMES&layout=compact&langs_count=8&card_width=320" />
 </div>
+
+---
+
 
 ### Minhas Tecnologias...
 
@@ -48,3 +61,6 @@
 
  
 </div>
+
+
+
