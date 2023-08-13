@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre minhas habilidades, projetos e tecnologias favoritas. Sinta-se à vontade para explorar!
 
-💻 Estudo Engenharia da Computação e Desenvolvimento de Software pela Univercidade de Aveiro
+
 
  
 
@@ -14,7 +14,11 @@ Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre mi
 
 ## Um pouco sobre mim... 🌟
 
-Sou apaixonada por programação e tecnologia. Sempre em busca de aprendizado e novos desafios. Aqui estão algumas estatísticas sobre meu trabalho:
+Sou apaixonada por programação e tecnologia. Sempre em busca de aprendizado e novos desafios.
+
+💻 Estudo Engenharia da Computação e Desenvolvimento de Software pela Univercidade de Aveiro
+
+
 
 <div align="center">
   <img height=190 src="https://github-readme-stats.vercel.app/api?username=camila13gomes&show_icons=true&theme=synthwave"/>
