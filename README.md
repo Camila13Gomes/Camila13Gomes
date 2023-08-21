@@ -21,7 +21,7 @@ Sou apaixonada por programação e tecnologia. Sempre em busca de aprendizado e 
 
 
 <div align="center">
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=camila13gomes&show_icons=true&theme=synthwave"/>
+
   <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=CAMILA13GOMES&layout=compact&langs_count=8&card_width=320" />
 </div>
 
