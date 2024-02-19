@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre mi
 
  
 ## Venha me conhecer! 👇
-[! [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-gomes-8b647320b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-gomes-8b647320b/)
 
 
 ---
