@@ -1,15 +1,79 @@
-Hi, I'm Camila Gomes 👋
-Software Engineer | Backend & Full-Stack Developer
-Java • Spring Boot • Node.js • TypeScript • React • SQL
+# Hi, I'm Camila Gomes 👋
 
-Software Engineer based in Switzerland, with hands-on experience in full-stack development and a background in Computer Engineering and Software Development.
+### Software Engineer | Backend & Full-Stack | QA Automation
 
-I previously worked on software development projects at Renault/HORSE in Portugal, using Angular, TypeScript, Node.js and MySQL. I'm currently strengthening my portfolio with backend development, automated testing and CI/CD projects.
+📍 Switzerland 🇨🇭
 
-📍 Switzerland
-💼 Open to Software Engineering, Backend, Full-Stack and QA/Test Automation opportunities
-🌐 Portuguese • Spanish • English • German
+Software Engineer with a background in Computer Engineering and
+Software Development, focused on building reliable backend and
+full-stack applications.
 
+I have hands-on software development experience at Renault/HORSE
+in Portugal, working with Angular, TypeScript, Node.js and MySQL.
+
+Currently focused on Backend Engineering, REST APIs,
+Automated Testing and CI/CD.
+
+## 🛠️ Tech Stack
+
+### Backend
+Java • Spring Boot • Node.js • PHP • REST APIs
+
+### Frontend
+TypeScript • JavaScript • React • Angular • HTML • CSS
+
+### Data
+SQL • PostgreSQL • MySQL • MongoDB
+
+### Testing & DevOps
+JUnit • Git • GitHub • GitHub Actions • Docker • CI/CD
+
+### Additional
+Python • C++ • C# • Arduino
+
+## 🚀 Featured Projects
+
+### 🧪 Automate-it Mini
+Full-stack test management application built with
+Spring Boot and React.
+
+• REST API
+• CRUD for Test Cases and Test Runs
+• Validation and error handling
+• Integration testing
+• Pagination
+• React frontend
+
+### ⚙️ CI/CD Quality Gate
+Automated software quality pipeline focused on testing
+and continuous integration.
+
+### 🗺️ RoutenPlan
+Modern route-planning web application built with
+Next.js and TypeScript.
+
+## 💼 Experience
+
+### Software Developer — Renault/HORSE 🇵🇹
+Worked on full-stack software development using Angular,
+TypeScript, Node.js and MySQL in an Agile/Scrum environment.
+
+## 🎓 Education
+
+**Computer Engineering**
+UniAmérica Descomplica — Brazil
+
+**Software Development**
+University of Aveiro — Portugal
+
+## 🌍 Languages
+
+🇧🇷 Portuguese — Native  
+🇪🇸 Spanish — Fluent  
+🇬🇧 English — Intermediate  
+🇩🇪 German — Currently studying
+
+## 📫 Let's Connect
  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-g-8b647320b/)
