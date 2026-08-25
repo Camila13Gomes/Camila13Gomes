@@ -1,27 +1,21 @@
-# Olá, sou a Camila! 👋
+Hi, I'm Camila Gomes 👋
+Software Engineer | Backend & Full-Stack Developer
+Java • Spring Boot • Node.js • TypeScript • React • SQL
 
-Bem-vindo ao meu perfil do GitHub. Aqui você encontrará informações sobre minhas habilidades, projetos e tecnologias favoritas. Sinta-se à vontade para explorar!
+Software Engineer based in Switzerland, with hands-on experience in full-stack development and a background in Computer Engineering and Software Development.
 
+I previously worked on software development projects at Renault/HORSE in Portugal, using Angular, TypeScript, Node.js and MySQL. I'm currently strengthening my portfolio with backend development, automated testing and CI/CD projects.
 
+📍 Switzerland
+💼 Open to Software Engineering, Backend, Full-Stack and QA/Test Automation opportunities
+🌐 Portuguese • Spanish • English • German
 
  
-## Venha me conhecer! 👇
+👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-g-8b647320b/)
 
 
----
 
-## Um pouco sobre mim... 🌟
-
-Sou apaixonada por programação e tecnologia. Sempre em busca de aprendizado e novos desafios.
-
-💻 Estudo Engenharia da Computação e Desenvolvimento de Software pela Univercidade de Aveiro
-
-
-
-
-
----
 
 
 ### Minhas Tecnologias...
