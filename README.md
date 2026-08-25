@@ -11,7 +11,7 @@ I previously worked on software development projects at Renault/HORSE in Portuga
 🌐 Portuguese • Spanish • English • German
 
  
-👇
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-g-8b647320b/)
 
 
